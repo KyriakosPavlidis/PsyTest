@@ -1,0 +1,27 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\choul\OneDrive\Desktop\PsyTest2\dist\Psychology Test.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\choul\OneDrive\Desktop\PsyTest2\dist\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_251
+Check launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000_251
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_80
+Ignore:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_251 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe
+Launcher args:	-jar "C:\Users\choul\OneDrive\Desktop\PsyTest2\dist\Psychology Test.exe"
+Args length:	72/32768 chars
+Exit code:	0
