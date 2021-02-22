@@ -1,10 +1,10 @@
 Λογισμικά και εργαλεία που χρησιμοποιήθηκαν για την δημιουργiα του Project:
-* 1)PostgreSQL (pgAdmin 4)
-* 2)NetBeans IDE (Integrated Development Environment)
-* 3)JDBC API (Java Database Connectivity)
-* 4)Open VPN
-* 5)Lanch4J
-* 6)Resource Hacker
+* PostgreSQL (pgAdmin 4)
+* NetBeans IDE (Integrated Development Environment)
+* JDBC API (Java Database Connectivity)
+* Open VPN
+* Lanch4J
+* Resource Hacker
 
 
 Ψυχολογικό test για τους μαθητές της δευτεροβάθμιας εκπαίδευσης.
